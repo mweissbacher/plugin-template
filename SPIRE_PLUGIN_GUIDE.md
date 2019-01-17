@@ -38,7 +38,7 @@ This document will walk a developer through the process developing of a plugin f
 
 3. Run and Test the plugin locally.
 
-4. Optinally create a PR for the Plugin
+4. Optionally create a PR for the Plugin
 
 5. Deploy and configure in their local SPIRE deployment 
 
